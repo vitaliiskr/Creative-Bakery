@@ -30,8 +30,10 @@
   }
 
   &__button {
+    display: inline-block;
     margin-top: 20px;
     padding: 8px 37px;
+    border: 2px solid transparent;
 
     &:hover {
       background-color: wheat;
